@@ -2,11 +2,11 @@
 
 ## A stupidly simple React component for Disqus.
 
-## A simpler, and updated version of [react-disqus-thread](https://github.com/mzabriskie/react-disqus-thread)
-
-## Also works with create-react-app!
-
 ### Example
+
+This is a simpler, and updated version of [react-disqus-thread](https://github.com/mzabriskie/react-disqus-thread)
+
+This will also work out of the box with create-react-app!
 
 I don't want to put it on npm, as there are a bunch of similar projects. So if you want something simple, feel free to *star* this repo, and then continue on to fork/download/clone this repo ;)
 
@@ -30,8 +30,6 @@ class Example extends Component {
 }
 
 export default Example;
-
-});
 ```
 
 It's that easy.
