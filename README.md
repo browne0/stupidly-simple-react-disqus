@@ -1,4 +1,4 @@
-# React-Disqus
+# stupidly-simple-react-disqus
 
 ## A stupidly simple React component for Disqus.
 
